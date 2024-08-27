@@ -9,7 +9,12 @@ Meu nome é José Lucas conhecido como *O Guri*
 00001122484483sp@al.educacao.sp.gov.br
 ![](https://media.tenor.com/syqk8AK7JAsAAAAM/muito-feliz-palmeiras.gif)
 
-projetinho abaixo p5.sj
+projetinho abaixo -D
+
+
+
+
+p5.sj
 Ping pong dos guri:
 
 //variáveis da bolinha gurizinha
