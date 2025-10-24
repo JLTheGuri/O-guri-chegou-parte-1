@@ -2,8 +2,8 @@
 
 Meu nome é José Lucas.
 .Estou estudando na 2°série do EM.
-.estou me desenvolvendo na linguagem javascript,Python e C++.
-.ultilizo essse espaço para organização dos projetos e estudos desenvolvidos.
+.estou me desenvolvendo na linguagem javascript,Python e C++
+.utilizo essse espaço para organização dos projetos e estudos desenvolvidos.
 
 ### Entre em contato comigo
 00001122484483sp@al.educacao.sp.gov.br
