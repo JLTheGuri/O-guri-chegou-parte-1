@@ -1,8 +1,8 @@
 # Bem vindos ao meu perfil
 
-Meu nome é José Lucas conhecido como *O Guri*
-.Estou estudando na alura
-.estou me desenvolvendo na linguagem javascript
+Meu nome é José Lucas.
+.Estou estudando na 2°série do EM.
+.estou me desenvolvendo na linguagem javascript,Python e C++.
 .ultilizo essse espaço para organização dos projetos e estudos desenvolvidos.
 
 ### Entre em contato comigo
