@@ -1,7 +1,7 @@
 # Bem vindos ao meu perfil
 
 Meu nome é José Lucas.
-.Estou estudando na 2°série do EM.
+.Estou estudando na 3°série do EM.
 .estou me desenvolvendo na linguagem javascript,Python e C++
 .utilizo essse espaço para organização dos projetos e estudos desenvolvidos.
 
